@@ -36,7 +36,6 @@ npm run build
 ### Changes to original template
 
 -   Add Prettier
--   Add `.gitignore`
 -   Add `config.js`
 -   Add `TestCube.js`
 -   Rename `threeScene.js`
